@@ -26,6 +26,6 @@ $ pip install requirements.txt
 $ python main.py
 ```
 
-## License
+## 🗒️ License
 
 [MIT LICENSED](./LICENSE)
