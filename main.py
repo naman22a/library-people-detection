@@ -175,7 +175,7 @@ while (cap.isOpened()):
                0.5, (255, 0, 0), 1, cv.LINE_AA)
 
     cv.imshow('Frame', frame)
-    cv.imshow('Mask', mask)
+    # cv.imshow('Mask', mask)
 
     k = cv.waitKey(30) & 0xff
     if k == 27:
