@@ -1,4 +1,4 @@
-# Library People Detection Project Usign Python with OpenCV
+# Library People Detection Project Using Python with OpenCV
 
 This project uses object detection using opencv library, we can track people going in and out of library as well as people present in library, and no of seats vacant in library.
 
