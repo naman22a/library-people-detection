@@ -23,7 +23,7 @@ $ cd library-people-detection
 $ py -m venv .venv
 
 # 4. Activate the virtual environment
-$ py -m venv .venv
+$ source ./.venv/Scripts/activate
 
 # 5. Install the dependencies with pip
 $ pip install requirements.txt
