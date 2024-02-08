@@ -1,4 +1,4 @@
-# Library People Detection Project Using Python with OpenCV
+# 📘 Library People Detection Project Using Python with OpenCV
 
 This project uses object detection using opencv library, we can track people going in and out of library as well as people present in library, and no of seats vacant in library.
 
@@ -13,19 +13,25 @@ This project uses object detection using opencv library, we can track people goi
 ## 🚶🏻‍♂️ Getting started
 
 ```bash
-# 1. Clone the repository
+# 1. Clone this repository
 $ git clone https://github.com/naman22a/library-people-detection
 
-# 2. Enter your newly-cloned folder.
+# 2. Enter into your newly-cloned folder
 $ cd library-people-detection
 
-# 3. Install the dependencies with pip.
+# 3. Create a virtual environment
+$ py -m venv .venv
+
+# 4. Activate the virtual environment
+$ py -m venv .venv
+
+# 5. Install the dependencies with pip
 $ pip install requirements.txt
 
-# 4. Run the program
+# 6. Run the program
 $ python main.py
 ```
 
 ## 🗒️ License
 
-[MIT LICENSED](./LICENSE)
+Library People Detection Project is [MIT LICENSED](./LICENSE)
