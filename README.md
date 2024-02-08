@@ -26,7 +26,7 @@ $ py -m venv .venv
 $ source ./.venv/Scripts/activate
 
 # 5. Install the dependencies with pip
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 
 # 6. Run the program
 $ python main.py
